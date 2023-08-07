@@ -11,9 +11,9 @@
 
 ## Added Features
 
-### Star Texture Background
-### Asteroid belt
-### Alien Spaceship
-### Two of Saturn's Moons
-### Sun
-### Earth and Moon
+ - Star Texture Background
+ - Asteroid belt
+ - Alien Spaceship
+ - Two of Saturn's Moons
+ - Sun
+ - Earth and Moon
